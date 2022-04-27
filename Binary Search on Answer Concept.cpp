@@ -1,0 +1,1 @@
+// binary search can be applied in unsorted array by putting some criteria
